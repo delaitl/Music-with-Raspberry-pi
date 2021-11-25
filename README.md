@@ -7,3 +7,7 @@ The AD9850 is a highly integrated device that uses advanced DDS technology coupl
 to form a digitally programmable frequency synthesizer and clock generator function.
 
 The main interest of this project is to allow the creation of an analogic oscillating signal using the raspberry Pi architecture that only deals with digital circuits.
+
+Enjoy the music :)
+
+Louis
