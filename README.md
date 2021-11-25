@@ -6,4 +6,4 @@ This project deals with the use of integrated circuit AD9850 with Raspberry pi t
 The AD9850 is a highly integrated device that uses advanced DDS technology coupled with an internal high speed, high performance D/A converter and comparator
 to form a digitally programmable frequency synthesizer and clock generator function.
 
-The main interest of this project is to allow the creation of an analogic oscillating signals using the raspberry Pi architecture that only deals with digital circuits.
+The main interest of this project is to allow the creation of an analogic oscillating signal using the raspberry Pi architecture that only deals with digital circuits.
